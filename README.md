@@ -29,29 +29,15 @@ I'm always eager to learn, collaborate, and contribute to **innovative software 
 
 - **Languages:** Python, Java, C  
 - **Web:** HTML, CSS  
-- **AI/ML:** BERT, Transformers, OpenCV, Vision-Language Models  
+- **AI/ML:** BERT, Transformers, OpenCV, Vision-Language Models,Tensorflow 
 - **Tools:** Git, Flask, MongoDB, SQL
 
 ---
 
-### 🏆 Achievements & Certifications
+### 💡 Fun Fact:
+> I blend creativity with code — whether it’s training AI models or serving on the volleyball court!
 
-- 🎯 **Participant – Smart India Hackathon**
-- 🏐 **State-level Volleyball Player**
-- 📜 **Certifications:**
-  - Machine Learning – Simplilearn  
-  - Artificial Intelligence – Coursera  
-  - SQL – MongoDB University
-
----
-
-### 📚 Education
-
-- **B.Tech in Computer Science (AI & ML)**  
-  *Sreyas Institute of Engineering & Technology (2022–2026)* — GPA: 8.3  
-- **Intermediate – Narayana Junior College** — 86.2%  
-- **SSC – Sri Chaitanya Techno School** — GPA: 10.0
-
+Thanks for visiting my profile! Don’t forget to ⭐ my repositories if you find them helpful 😊
 ---
 
 ### 🌱 Currently Exploring
@@ -79,4 +65,4 @@ I'm always eager to learn, collaborate, and contribute to **innovative software 
 
 ---
 
-> “I don’t just write code — I craft solutions. Every bug is a challenge. Every project is a story. Let's build the future together!” 🚀
+> "Thanks for visiting my profile! Don’t forget to ⭐ my repositories if you find them helpful 😊"
