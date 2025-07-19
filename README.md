@@ -1,10 +1,6 @@
 <h1 align="center">Hey there 👋 I'm Kathi Akshitha Reddy</h1>
 <h3 align="center">AI & Machine Learning Enthusiast | Always Curious ✨</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Engineering+the+Future+with+AI;Lifelong+Learner+%7C+Creative+Thinker;Let's+Build+Something+Great+Together!🌟" alt="Typing SVG" />
-</p>
-
 ---
 
 🔍 I’m currently a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning** at  
