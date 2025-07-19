@@ -35,9 +35,8 @@ I'm always eager to learn, collaborate, and contribute to **innovative software 
 ---
 
 ### 💡 Fun Fact:
-> I blend creativity with code — whether it’s training AI models or serving on the volleyball court!
+I blend creativity with code — whether it’s training AI models or serving on the volleyball court!
 
-Thanks for visiting my profile! Don’t forget to ⭐ my repositories if you find them helpful 😊
 ---
 
 ### 🌱 Currently Exploring
@@ -65,4 +64,4 @@ Thanks for visiting my profile! Don’t forget to ⭐ my repositories if you fin
 
 ---
 
-> "Thanks for visiting my profile! Don’t forget to ⭐ my repositories if you find them helpful 😊"
+Thanks for visiting my profile! Don’t forget to ⭐ my repositories if you find them helpful 😊
