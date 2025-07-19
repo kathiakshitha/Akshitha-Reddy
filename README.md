@@ -25,12 +25,13 @@ I'm always eager to learn, collaborate, and contribute to **innovative software 
 
 ---
 
-### 🛠️ Tech Skills
+### 🧰 Tech Stack
 
-- **Languages:** Python, Java, C  
-- **Web:** HTML, CSS  
-- **AI/ML:** BERT, Transformers, OpenCV, Vision-Language Models,Tensorflow 
-- **Tools:** Git, Flask, MongoDB, SQL
+- 💻 **Languages:** `Python` · `Java` · `C`
+- 🌐 **Web & Frameworks:** `HTML` · `CSS` · `Flask`
+- 🧠 **AI/ML:** `BERT` · `Transformers` · `TensorFlow` · `OpenCV`
+- 🛠️ **Tools & Databases:** `Git` · `MongoDB` · `SQL`
+
 
 ---
 
@@ -64,3 +65,5 @@ I blend creativity with code — whether it’s training AI models or serving on
 ---
 
 Thanks for visiting my profile! Don’t forget to ⭐ my repositories if you find them helpful 😊
+
+> Learn fast, and Build smarter every day :)
