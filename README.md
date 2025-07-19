@@ -39,11 +39,10 @@ I blend creativity with code — whether it’s training AI models or serving on
 
 ---
 
-### 🌱 Currently Exploring
-
-- Real-time ML model deployment  
-- Cloud AI tools  
-- React + Flask integration for AI-powered web apps
+### 🔭 Currently exploring:
+- Advanced ML models and real-time inference
+- Cloud deployment of AI applications
+- React + Flask integration for smart apps
 
 ---
 
